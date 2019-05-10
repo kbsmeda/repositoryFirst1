@@ -2,7 +2,8 @@ package com.coreJava.Examples;
 
  
 public class AbcStatic {
-	int i=10;
+	int i=11;
+	
 	static int j=25;
 	
 	public static void main(String args[]) {
